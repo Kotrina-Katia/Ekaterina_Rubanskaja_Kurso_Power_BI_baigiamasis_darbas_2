@@ -2,7 +2,7 @@
 
 Šioje ataskaitoje analizuojami 2021 m. „Best Furniture“ duomenys. Ji atspindi įmonės veiklos rezultatus.
 
-## 	Techninis užduotis
+## 	Darbo užduotis
 
   Reikia paruošti įmonės „Best Furniture“ metinės ataskaitos dašbordą.
 	Išnagrinėję verslo procesus su įmonės vadovybe, suformulavome šiuos ataskaitų srities reikalavimus:
@@ -12,7 +12,7 @@
   3. Užsakymai iš mūsų klientų;
 - Palaiko kryžminį filtravimą visuose lapuose, o tai reiškia, kad pasirinkus duomenų dalį viename grafike, kiti bus pertvarkyti;
 - Visi grafikai turi aiškius pavadinimus, duomenų žymas ir (pageidautina) legendą;
-- Papildomai: lapas su navigaciją ir lapas su išvadomis.
+- Papildomai: lapas su navigacija ir lapas su išvadomis.
 
 	**Tikslas:** Naudojant ataskaitą, nustatyti dažniausias užsakymų atšaukimo priežastis. Yra hipotezė, kad tai prekių trūkumas sandėlyje.
 
